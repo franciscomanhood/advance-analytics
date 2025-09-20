@@ -1,2 +1,2 @@
-# advance-analytics
+# advanced-analytics
 Proyectosd de analitica avanzada que utilizan machine learning
